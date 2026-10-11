@@ -10,7 +10,7 @@ repository.workspace = true
 tauri-build = { version = "2", features = [] }
 
 [dependencies]
-bf-cloud = { path = "../../crates/bf-cloud" }
+bf-cloud = { git = "https://github.com/SeanHogg/builderforce-inference", branch = "main" }
 bf-roblox = { path = "../../crates/bf-roblox" }
 anyhow.workspace = true
 serde.workspace = true
