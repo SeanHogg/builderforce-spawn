@@ -3,7 +3,7 @@
 // when the phrase lands, so typing while dictating is never overwritten.
 //
 // Spawn ships its own `ui/` folder, so it cannot import Synapse's copy at runtime; this
-// file is kept identical to `desktop/app/ui/js/chat/dictation.js`, and both follow the
+// file is kept identical to builderforce-inference `app/ui/js/chat/dictation.js`, and both follow the
 // shared `useVoiceDictation` the web and editor composers use.
 
 function recognitionCtor() {
