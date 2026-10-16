@@ -1,5 +1,7 @@
 # builderforce-spawn
 
+> Part of [Builderforce open source](https://builderforce.ai/open-source): the MIT projects Builderforce.ai is built on.
+
 **Spawn** — build Roblox games by talking. A desktop app plus a Roblox Studio bridge.
 
 ## Layout
